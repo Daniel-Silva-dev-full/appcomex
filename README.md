@@ -8,6 +8,8 @@ Este é um aplicativo desenvolvido para analisar os dados de exportação do Bra
 - Download de Dados: Os usuários podem fazer o download dos dados filtrados em formato CSV, permitindo uma análise mais detalhada fora do aplicativo.
 
 # Como Utilizar:
+- Primeiro voce precisa executar o script de extract para baixar os dados necessários do comex.
+- Após isso, pode rodar o script do app ou customiza-lo como desejar.
 - Filtros: Use os filtros na barra lateral para selecionar os países e estados de interesse.
 - Indicadores de Desempenho: Visualize os principais indicadores de desempenho, como valor FOB, quantidade de Kg líquido e quantidade de produtos exportados.
 - Indicadores de Destaque: Descubra o estado com maior valor de exportação e o mês com maior valor de exportação em 2023.
